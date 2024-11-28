@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="seif_el_den_karam">Seif el-den karam</string>
-    <string name="Introductory_paragraph">As a principal in mobile application development, you bring a wealth of expertise in crafting innovative and user-centric mobile solutions. Your strong foundation in problem-solving allows you to navigate complex challenges with ease, while your deep understanding of Object-Oriented Programming (OOP) ensures the creation of scalable and maintainable applications. With a passion for technology and a commitment to excellence, you are a driving force behind cutting-edge mobile experiences that meet both business and user needs.</string>
+    <string name="Introductory_paragraph">As a principal in mobile application development, you are bring a wealth of expertise in crafting innovative and user-centric mobile solutions. Your strong foundation in problem-solving allows you to navigate complex challenges with ease, while your deep understanding of Object-Oriented Programming (OOP) ensures the creation of scalable and maintainable applications. With a passion for technology and a commitment to excellence, you are a driving force behind cutting-edge mobile experiences that meet both business and user needs.</string>
     <string name="add_to_story">+ Add to story</string>
     <string name="edit_profile">Edit profile</string>
     <string name="todo">TODO</string>
